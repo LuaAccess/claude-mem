@@ -1,10 +1,10 @@
 {
-  "name": "thedotmack",
+  "name": "LuaAccess",
   "owner": {
-    "name": "Alex Newman"
+    "name": "LuaAccess"
   },
   "metadata": {
-    "description": "Plugins by Alex Newman (thedotmack)"
+    "description": "Plugins by LuaAccess"
   },
   "plugins": [
     {
