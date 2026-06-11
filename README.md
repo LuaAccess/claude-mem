@@ -1,0 +1,2 @@
+# claude-mem
+Harden version
